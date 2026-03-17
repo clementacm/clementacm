@@ -4,13 +4,13 @@ Actuellement étudiant en 1ère année de BUT MMI, j'envisage de me spécialiser
 Mon premier objectif est le métier de développeur front-end.
 À plus long terme, mon ambition est de devenir développeur créatif.
 
-## Dernier projet : Carnet de bord dynamique (SAÉ 1.05)
+### 📌 Dernier projet : Carnet de bord dynamique (SAÉ 1.05)
 
 Réalisé dans le cadre de mon BUT MMI, ce projet consistait à concevoir un carnet de bord automatisé regroupant les différentes Situations d'Apprentissage et d'Évaluation (SAÉ).
 L'objectif était de générer dynamiquement chaque page à partir d'une structure de données JavaScript.
 
-**Technologies utilisées :** HTML5, CSS3, JavaScript.
-**Design :** Interface ergonomique, inspiration Bento Grids pour la page d'accueil
+* **Technologies utilisées :** HTML5, CSS3, JavaScript.
+* **Design :** Interface ergonomique, inspiration Bento Grids pour la page d'accueil
 
 🔗 **<a href="https://clementacm.github.io/SAE105_Carnet_de_bord/" target="_blank">Voir le site en ligne</a>** | 📂 **<a href="https://github.com/clementacm/SAE105_Carnet_de_bord" target="_blank">Code source</a>**
 
