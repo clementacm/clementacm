@@ -4,7 +4,6 @@ Actuellement étudiant en 1ère année de BUT MMI, j'envisage de me spécialiser
 Mon premier objectif est le métier de développeur front-end.
 À plus long terme, mon ambition est de devenir développeur créatif.
 
-https://img.shields.io/badge/Ludovic%20Déan-DevEnDevenir-yellow
 <!--
 **clementacm/clementacm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
