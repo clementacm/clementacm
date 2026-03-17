@@ -7,12 +7,12 @@ Mon premier objectif est le métier de développeur front-end.
 ## Dernier projet : Carnet de bord dynamique (SAÉ 1.05)
 
 Réalisé dans le cadre de mon BUT MMI, ce projet consistait à concevoir un carnet de bord automatisé regroupant les différentes Situations d'Apprentissage et d'Évaluation (SAÉ).
-
 L'objectif était de générer dynamiquement chaque page à partir d'une structure de données JavaScript.
 
-* **Technologies utilisées :** HTML5, CSS3, JavaScript.
+**Technologies utilisées :** HTML5, CSS3, JavaScript.
+**Design :** Interface ergonomique, inspiration Bento Grids pour la page d'accueil
 
-🔗 **[Voir le projet en ligne](https://clementacm.github.io/SAE105_Carnet_de_bord/)** | 📂 **[Code source](https://github.com/clementacm/SAE105_Carnet_de_bord)**
+🔗 **<a href="https://clementacm.github.io/SAE105_Carnet_de_bord/" target="_blank">Voir le site en ligne</a>** | 📂 **<a href="https://github.com/clementacm/SAE105_Carnet_de_bord" target="_blank">Code source</a>**
 
 ## 💻 Mes compétences :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
