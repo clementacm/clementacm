@@ -1,5 +1,8 @@
-## Hi there 👋
+## Bienvenu sur mon profil GitHub 👋
 
+Actuellement étudiant en 1ère année de BUT MMI, j'envisage de me spécialiser en développement web.
+Mon premier objectif est le métier de développeur front-end.
+À plus long terme, mon ambition est de devenir développeur créatif.
 <!--
 **clementacm/clementacm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
