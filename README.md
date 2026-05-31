@@ -4,15 +4,15 @@ Actuellement étudiant en 1ère année de BUT MMI, j'envisage de me spécialiser
 Mon premier objectif est le métier de développeur front-end.
 À plus long terme, mon ambition est de devenir développeur créatif.
 
-### 📌 Dernier projet : Carnet de bord dynamique (SAÉ 1.05)
+### 📌 Dernier projet : Kinographe - Catalogue cinématographique (SAÉ 203)
 
-Réalisé dans le cadre de mon BUT MMI, ce projet consistait à concevoir un carnet de bord automatisé regroupant les différentes Situations d'Apprentissage et d'Évaluation (SAÉ).
-L'objectif était de générer dynamiquement chaque page à partir d'une structure de données JavaScript.
+Réalisé dans le cadre de mon BUT MMI, ce projet consistait à concevoir une application web dynamique répertoriant les films les mieux évalués par les spectateurs (IMDb).
+L'objectif était de développer un site complet reposant sur une base de données relationnelle.
 
-* **Technologies utilisées :** HTML5, CSS3, JavaScript.
-* **Design :** Interface ergonomique, inspiration Bento Grids pour la page d'accueil
+* **Technologies utilisées :** PHP, MySQL, HTML5, CSS3, JavaScript.
+* **Points forts :** Architecture MVC backend, requêtes SQL optimisées, filtrage dynamique par genres côté client (JS), et système participatif d'avis utilisateurs.
 
-🔗 **<a href="https://clementacm.github.io/SAE105_Carnet_de_bord/" target="_blank">Voir le site en ligne</a>** | 📂 **<a href="https://github.com/clementacm/SAE105_Carnet_de_bord" target="_blank">Code source</a>**
+🔗 **<a href="https://kinographe.acmclement.com/" target="_blank">Voir le site en ligne</a>** | 📂 **<a href="https://github.com/clementacm/kinographe" target="_blank">Code source</a>**
 
 ## 💻 Mes compétences :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
