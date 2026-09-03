@@ -1,6 +1,6 @@
 # Hello, je suis Clément Acmanne 👋
 
-Actuellement étudiant en 1ère année de BUT MMI, j'envisage de me spécialiser en développement web.
+Actuellement étudiant en 2ème année de BUT MMI, j'envisage de me spécialiser en développement web.
 Mon premier objectif est le métier de développeur front-end.
 À plus long terme, mon ambition est de devenir développeur créatif.
 
